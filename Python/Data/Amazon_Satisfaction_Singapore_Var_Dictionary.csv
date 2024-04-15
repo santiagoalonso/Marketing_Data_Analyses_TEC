@@ -1,0 +1,90 @@
+﻿Variable,Description,Range,Values Key,Respondent Refused/Dont Know Answer
+uid,Unique ID,,,
+company_v,Companies - Open-end,,,
+poverq,Overall Product Quality,1 to 10 ,"1 Very low, 10 Very High","97, 98, 99"
+soverq,Overall Service Quality,1 to 10 ,"1 Very low, 10 Very High","97, 98, 99"
+pq,Price given quality,1 to 10,"1 Very poor price,  10 Very good price","97, 98, 99"
+satis,Customer Satisfaction,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+repur,Likelihood to Repurchase,1 to 10,"1 Very unlikely, 10 Very likely","97, 98, 99"
+recomm,Likelihood to recommend,1 to 10,"1 Very unlikely, 10 Very likely","97, 98, 99"
+Q19,Recommended ecommerce site to family and friends in the last 3 months,0 to 1,"0 No, 1 Yes","97, 98, 99"
+VN_1009_Q20A,Overall experiences SATISFACTION with (INSERT NAME),1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP01,Variety of products that interests me,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP02,Variety of products that meet my needs,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP03,Ease of navigating the website or app,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP04,Ease of finding the products you need,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP05,Availability of products,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP06,Attractiveness of promotions and discounts offered,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP07,Sufficiency of Product information,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP08,Ease of comparing products,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP09,Ease of indicating special requests,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP10,Ease of managing your shopping cart,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP11,Check-out and payment process,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP12,Security of website,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP13,Clarity and usefulness of information on your delivery methods and fees,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP14,Range of delivery options,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP15,Ease of tracking your order,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP16,Time taken to receive the product,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP17,Products you received were as described on the website,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP18,Availability of feedback channels,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP19,Return and exchange policies,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP20,Method Used most frequently to shop at (INSERT NAME),1 to 3,"1 Mobile App, 2 Website (Using PC), 3 Website (Using a mobile device)","97, 98, 99"
+VN_1009_TP21,Method of payment do you prefer most for shopping online at (INSERT NAME),1 to 6,"1 Credit Cards, 2 PayPal, 3 E-nets, 4 AXS machines, 5 Cash upon delivery, 6 Others","97, 98, 99"
+VN_1009_TP21_6specify,Method of payment do you prefer most for shopping online at (INSERT NAME) Other specify,Verbatim,,"97, 98, 99"
+VN_1009_TP24_1,Read the reviews during shopping experience,1 to 2,1 Yes 2 No,"97, 98, 99"
+VN_1009_TP24_2,Interacted directly with the seller during shopping experience,1 to 2,1 Yes 2 No,"97, 98, 99"
+VN_1009_TP22,Satisfaction with the product reviews,1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+VN_1009_TP23,Satisfaction with the channels available to communicate with the seller(s),1 to 10,"1 Very dissatisfied, 10 Very satisfied","97, 98, 99"
+Q9C_P,No. of times purchased in the last 6 months,,,"97, 98, 99"
+Q9D,Average amount spent per visit last 3 months,,,999
+VN_1009_TP25A,General Shopping Behavior: Usually make most purchases on physical store or an online store,1 to 3,"1 Physical store, 2 Online store 3 Equal for both physical store &  online store","97, 98, 99"
+age,Age,,,"97, 98, 99"
+race,Race of the respondent,,"1 Chinese, 2 Malay, 3 Indian, 4 Eurasian, 5 Others","97, 98, 99"
+work,Employment status of the respondent,,"1 Working full-time, 2 Working part-time, 3 Homemaker, 4 Retired, 5 Student, 6 Unemployed","97, 98, 99"
+pincome,Monthly Personal Income,,"1	Under SGD 2K
+2	SGD 2K - Under SGD 3K
+3	SGD 3K - Under SGD 4K
+4	SGD 4K - Under SGD 6K
+5	SGD 6K - Under SGD 8K
+6	SGD 8K - Under SGD 10K
+7	SGD 10K - Under SGD 15K
+8	SGD 15K - Under SGD 20K
+9	SGD 20K or over","97, 98, 99"
+income,Monthly Household Income,,"1	Under SGD 2K
+2	SGD 2K - Under SGD 3K
+3	SGD 3K - Under SGD 4K
+4	SGD 4K - Under SGD 6K
+5	SGD 6K - Under SGD 8K
+6	SGD 8K - Under SGD 10K
+7	SGD 10K - Under SGD 15K
+8	SGD 15K - Under SGD 20K
+9	SGD 20K or over","97, 98, 99"
+educat,Education Qualification,,"1	None
+2	PSLE & below
+3	GCE N Level
+4	GCE O Level
+5	GCE A Level / Post-Secondary
+6	ITE / Vocational Institute
+7	Polytechnic Diploma / Professional Cert
+8	University Degree
+9	University Post-Graduate Degree","97, 98, 99"
+childsupp,No. of children dependent for financial support,,"1	None
+2	One
+3	Two
+4	Three
+5	Four or more","97, 98, 99"
+marital,Marital Status,,"1	Single
+2	Married
+3	Divorced
+4	Widowed
+5	Separated
+6	Domestic Partnership","97, 98, 99"
+gender,Gender,,"1	Male
+2	Female","97, 98, 99"
+house,Housetype according to respondent,,"1	HDB 1-2 room
+2	HDB 3 room
+3	HDB 4 room
+4	HDB 5 room / Executive Flat
+5	Condo / Ptd Apartment
+6	Landed Property","97, 98, 99"
+DOI,Date of Interview,,,
